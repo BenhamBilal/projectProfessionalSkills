@@ -1,1 +1,1 @@
-# projectProfessionalSkills
+Dit project is een kennismaking met de basisprincipes van softwareontwikkeling. Het bevat voorbeelden en kleine opdrachten die me helpen om de structuur van een project, versiebeheer en werken met GitHub beter te begrijpen.
